@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#080b10">
+<link rel="icon" type="image/png" href="Proyecto_911_icono.png">
 <title>Proyecto 911 | AGX</title>
 <style>
 :root{color-scheme:dark;--bg:#080b10;--panel:#111720;--muted:#9aa7b7;--green:#70f0a2;--line:#263241}
